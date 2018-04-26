@@ -1,0 +1,1 @@
+# Word2Vec-for-sequential-categorical-data-
